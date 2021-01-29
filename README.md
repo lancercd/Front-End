@@ -79,7 +79,7 @@
 
 
 
-### 5.js 很重要的一块
+### 5.js 很重要的一块 建议搭配算法一同食用(算法在第6点)
 
 + ECMASctipr
 + 浏览器拓展
@@ -107,8 +107,6 @@
 
 
 [第四章 JavaScript 数组挖掘，不只是讲数组哟](https://www.bilibili.com/video/BV1nE411q73o)
-
-
 
 
 
@@ -171,3 +169,33 @@
 
 
 [学习DOM看这个吧，JS编程必会技能](https://www.bilibili.com/video/BV1TC4y1p79u)
+
+
+
+
+
+### 6.算法
+
+刷算法题首选[leetcode](https://leetcode-cn.com/problemset/all/)，网站有中文的登录后右上角可以选择语言
+
+首先注册一个leetcode账号  方便刷题
+
+里面有非常多的算法题目，可以直接通过搜索题号、题目、内容，进行查找
+
+每个题目都有非常多的题解、讨论，还能查看别人的提交的代码哦，实在没思路可以看看哦
+
+比如一个题目[leetcode 42.接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)做过的哦，可以做一下试试，这个题难度是**困难**哦
+
+![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/22/rainwatertrap.png)
+
+
+
+在leetcode上面支持非常多的语言  建议使用C、C++、js刷题，或者用这三种语言都刷一遍
+
+>在C/C++中刷算法很可能会用到STL，也就是标准模板库，我们老师没有讲
+>
+>里面包含了很多有用的东西比如:map vector set queue stack他们都是数据结构
+
+
+
+可以先从一个最简单的题目开始[leetcode 1.两数之和](https://leetcode-cn.com/problems/two-sum/)
