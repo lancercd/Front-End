@@ -70,7 +70,6 @@
 
 
 
-![](./images/3.png)
 
 <img src="./images/3.png" alt="3" style="zoom:50%;" />
 
@@ -81,3 +80,94 @@
 
 
 ### 5.js 很重要的一块
+
++ ECMASctipr
++ 浏览器拓展
+  + DOM(文档对象模型)
+  + BOM(浏览器对象模型)
++ 服务器端
+  + Node.js
+
+这里有一个博客[ES5、6、7浅析](https://www.cnblogs.com/zhanghua-zh/p/10652712.html)
+
+
+
+接着视频教程还是[后盾人](https://space.bilibili.com/282190994/video)
+
+[第一章 走进 JAVASCRIPT 黑洞，JavaScript 系统课程涵盖 es5 / es6 / es7 / es8 知识点](https://www.bilibili.com/video/BV1yE411y7QZ))
+
+
+
+[第二章 JavaScript 运算符与流程控制](https://www.bilibili.com/video/BV1UE411b7Yu)
+
+
+
+[第三章 JavaScript 值类型使用](https://www.bilibili.com/video/BV12E411q7KX)
+
+
+
+[第四章 JavaScript 数组挖掘，不只是讲数组哟](https://www.bilibili.com/video/BV1nE411q73o)
+
+
+
+
+
+[第五章 好用的 JavaScript Symbol 类型](https://www.bilibili.com/video/BV1dE411v7mx)
+
+
+
+
+
+[第六章 Set与WeakSet类型在JavaScript中的使用](https://www.bilibili.com/video/BV1XE411Y71t)
+
+
+
+
+
+[第六章 Set与WeakSet类型在JavaScript中的使用](https://www.bilibili.com/video/BV1XE411Y71t)
+
+
+
+[第八章 探索JS中的函数秘密](https://www.bilibili.com/video/BV14J41117Yu)
+
+
+
+
+
+[第九章 这次把JS闭包给你讲得明明白白](https://www.bilibili.com/video/BV1YJ411R7ap)
+
+
+
+[第十章 对象](https://www.bilibili.com/video/BV1sJ411z7Gg)
+
+
+
+[第十一章 JS的原型和继承包你学会，让javascript功力再上一层](https://www.bilibili.com/video/BV17J411y7XZ)
+
+
+
+[第十二章 体验ES6中类的秘密，帮助前端工程师提升JS开发能力](https://www.bilibili.com/video/BV1vJ411k7ZP)
+
+
+
+[第十三章 来来来！掌握JS模块化开发，编写高可用代码](https://www.bilibili.com/video/BV1jJ411r7nb)
+
+
+
+[第十四章 吃通js正则表达式，javascript前端工程师必会技能](https://www.bilibili.com/video/BV12J41147fC)
+
+
+
+[第十五章 你应该学习的 JS 异步编程与Promise，还有async与await](https://www.bilibili.com/video/BV15J411G7FG)
+
+
+
+[第十六章 JS中的宏任务与微任务，及JAVASCRIPT任务调度流程，ES6](https://www.bilibili.com/video/BV1eJ41177Rg)
+
+
+
+[第十七章 手写PROMISE核心代码，提升JAVASCRIPT编程能力，加深JS](https://www.bilibili.com/video/BV137411e7KA)
+
+
+
+[学习DOM看这个吧，JS编程必会技能](https://www.bilibili.com/video/BV1TC4y1p79u)
