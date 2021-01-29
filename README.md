@@ -79,6 +79,46 @@
 
 
 
+一些好看的html+css案例，有的还非常实用，没事看看就行
+
+[仅使用HTML和CSS的动画登录表单](https://www.bilibili.com/video/BV1KE411y7CZ)
+
+[『分享按钮』带滚动特效的分享按钮](https://www.bilibili.com/video/BV14t411F7zt)
+
+[『按钮集合』纯HTML&CSS实现常规按钮 | 你要的按钮都在这里了 |](https://www.bilibili.com/video/BV1Gt411P72u)
+
+[HTML&CSS&jQuery\]十分钟实现轮播图效果](https://www.bilibili.com/video/BV114411A7fA)
+
+[滑动手风琴实战DEMO](https://www.bilibili.com/video/BV117411r7pF)
+
+[仅使用HTML和CSS的分享按钮](https://www.bilibili.com/video/BV1EJ411D77o)
+
+[卡片悬停效果](https://www.bilibili.com/video/BV1dK4y1C7Vy)
+
+[『CSS』CSS图像悬停效果](https://www.bilibili.com/video/BV1YJ411w7eW)
+
+[【前端美学】这QQ弹弹好可爱！用 HTML+CSS 即刻构建属于自己的](https://www.bilibili.com/video/BV1Fk4y1R77R)
+
+[『按钮』交互式CSS 3按钮](https://www.bilibili.com/video/BV14E411B7iL)
+
+[『进度条』HTML中的动态进度条指示器](https://www.bilibili.com/video/BV1tE411B7FG)
+
+[HTML&CSS\]五分钟实现侧边栏菜单效果](https://www.bilibili.com/video/BV19t411n7MZ)
+
+[CSS提示标签-转自Online Tutorials](https://www.bilibili.com/video/BV1st41177Mq)
+
+[CSS酷炫盒子效果-转自Online](https://www.bilibili.com/video/BV1ot411E7Bg)
+
+[HTML&CSS\]五分钟实现鼠标悬浮图片向上移动特效](https://www.bilibili.com/video/BV1Yt41137qN)
+
+[HTML&CSS\]五分钟实现鼠标悬浮按钮渐变效果](https://www.bilibili.com/video/BV184411F7s1)
+
+[【HTML+CSS】实现适配各种屏幕大小](https://www.bilibili.com/video/BV1d4411Y7Qm)
+
+[HTML+CSS\]三分钟实现荧光边框](https://www.bilibili.com/video/BV1Sb411T7z6)
+
+[css五分钟实现图片3D分层悬浮效果](https://www.bilibili.com/video/BV1mb411i77n)
+
 ### 5.js 很重要的一块 建议搭配算法一同食用(算法在第6点)
 
 + ECMASctipr
@@ -174,6 +214,24 @@
 
 
 
+还需要学习小学习下webpack, node.js，先可以小小的学习下
+
+[2020Webpack速学实战教程](https://www.bilibili.com/video/BV1gA411B7M2)
+
+
+
+一个很强的前端B站up主[我是小野森森](https://space.bilibili.com/378372969/)
+
+看他的视频可能需要点webpack，node.js知识
+
+[2020全新JS++前端『JavaScript业务能力提升班』第1弹](https://www.bilibili.com/video/BV1m7411z7LH)
+
+[2020全新JS++前端『JavaScript业务能力提升班』第2弹](https://www.bilibili.com/video/BV1t7411B7Pk)
+
+当然还有3、4、5弹就这视频旁边
+
+
+
 ### 6.算法
 
 刷算法题首选[leetcode](https://leetcode-cn.com/problemset/all/)，网站有中文的登录后右上角可以选择语言
@@ -199,3 +257,30 @@
 
 
 可以先从一个最简单的题目开始[leetcode 1.两数之和](https://leetcode-cn.com/problems/two-sum/)
+
+
+
+最开始可以跟着别人刷[JS刷Leetcode](https://www.bilibili.com/video/BV16K411K7Cy?p=1)这个视频是使用js的
+
+
+
+[C 語言 LeetCode 四月 30 天挑戰](https://www.bilibili.com/video/BV1zp4y1a7Fz?p=1)这个视频是使用C的
+
+
+
+推荐一个视频学习STL 可以直接从17分12秒开始看，[ACM寒假集训 C++与STL](https://www.bilibili.com/video/BV1mU4y147vx)
+
+
+
+
+
+
+
+推荐一个B站up主[爱学习的饲养员](https://space.bilibili.com/31337561/video?tid=0&page=2&keyword=&order=pubdate)
+
+
+
+
+
+其实leetcode的教学视频非常多[B站上搜的](https://search.bilibili.com/video?keyword=leetcode)
+
